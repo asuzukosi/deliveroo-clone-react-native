@@ -1,0 +1,114 @@
+[
+    {
+        "title": "KFC",
+        "id": 123,
+        "imageUrl": "https://thumbs.dreamstime.com/b/kfc-fast-food-restaurant-logo-its-building-sagunto-spain-february-kfc-fried-chicken-fast-food-restaurant-logo-its-building-139640468.jpg",
+        "genre":"Japanese",
+        "address": "123 Main St",
+        "shortDescription":"this is a short description",
+        "dishes": [ 
+            {   "id": 1,
+                "title": "Burger",
+                "description": "Yum Yum tasty burger by KFC",
+                "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+                "price": "$12"
+            },
+            {   "id": 2,
+                "title": "Chicken wings",
+                "description": "Nice KFC wings",
+                "image": "https://static.onecms.io/wp-content/uploads/sites/19/2013/01/08/fried-chicken-wings-sl-1000.jpg",
+                "price": "$2.4"
+            },
+            {   "id": 4,
+                "title": "Chicken nuggets",
+                "description": "This is tasty KFC chicken nuggets",
+                "image": "https://static.onecms.io/wp-content/uploads/sites/19/2013/01/08/fried-chicken-wings-sl-1000.jpg",
+                "price": "$3.5"
+            }
+        ],
+        "rating":4.5,
+        "long": 10.45,
+        "lat": 12.34
+    },
+    {
+        "title": "Southern Fried Chicken",
+        "id": 124,
+        "imageUrl": "https://c8.alamy.com/comp/C942H6/sfc-southern-style-chicken-bucket-kfc-style-exclusive-to-iceland-stores-C942H6.jpg",
+        "genre":"Vegan",
+        "address": "84, Diamone Rd",
+        "shortDescription":"This is the all you can eat vegan southern fried chicken",
+        "dishes": [
+            {   "id": 1,
+                "title": "SFC Burger",
+                "description": "SFC simple vegan burger",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3J0dHc6odRV97MIniBOXoisglBFF77-OokA&usqp=CAU",
+                "price": "$23"
+            },
+            {   "id": 2,
+                "title": "SFC Special large burger",
+                "description": "This is the SFC special large vegan burger made with plant based meat",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3J0dHc6odRV97MIniBOXoisglBFF77-OokA&usqp=CAU",
+                "price": "$15.67"
+            }
+        ],
+        "rating":3.1,
+        "long": 45.67859,
+        "lat": 34.34554
+    },
+    {
+        "title": "McDonalds",
+        "id": 125,
+        "imageUrl": "https://media.istockphoto.com/id/458546943/photo/close-up-mcdonalds-outdoor-sign-against-blue-sky.jpg?s=612x612&w=0&k=20&c=f7jB65lAdjn3TjOBgMogW22djv3QpoSuS_a1iGc_ueU=",
+        "genre":"African",
+        "address": "56, Sigmoid Way",
+        "shortDescription":"All you can eat african McDonalds",
+        "dishes": [
+            {   
+                "id": 1,
+                "title": "McDonalds Burger",
+                "description":"this is a McDonalds Burger made with African spiceing",
+                "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-qpc-deluxe-burger.jpg",
+                "price": "$23.4"
+            },
+            {   "id": 2,
+                "title": "McDonalds Burger supreme",
+                "description": "This is the African McDonalds Burger supreme",
+                "image": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-qpc-deluxe-burger.jpg",
+                "price": "$54.3"
+            
+            }
+        ],
+        "rating":3.1,
+        "long": 55.67859,
+        "lat": 74.34554
+    },
+    {
+        "title": "Sub Way",
+        "id": 126,
+        "imageUrl": "https://www.shutterstock.com/image-photo/singapore-mar-6-2020-front-260nw-1734132101.jpg",
+        "genre":"Chinese",
+        "address": "56, Sigmoid Way",
+        "shortDescription":"All you can eat Chinese Sub Way",
+        "dishes": [
+            {   
+                "id": 1,
+                "title": "Sub Way full sandwitch",
+                "description": "This a chinese sub way full sandwich",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTl51k6TtKPr9TjGCNEqC2rGwYamI4Cea7Hg&usqp=CAU",
+                "price": "$2.4"
+            },
+            {   
+                "id": 2,
+                "title": "Sub Way half sandwitch",
+                "description": "This is the sub way half sandwich made with chinese seasoning",
+                "imaage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGRFetat2TGwh3ppMEcldfogue5BOZVXp6A&usqp=CAU",
+                "price": "$6.4"
+
+            }
+        ],
+        "rating":3.1,
+        "long": 55.67859,
+        "lat": 74.34554
+    }
+
+]

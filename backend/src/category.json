@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "Fruits and Vegetables",
+        "imageUrl": "https://media.istockphoto.com/id/1284690585/photo/colorful-vegetables-and-fruits-vegan-food-in-rainbow-colors.jpg?s=612x612&w=0&k=20&c=fXqp_CPaHMyfzMhjZGQG1zloNBNkVRjdYKScw3K98XQ="
+    },
+    {
+        "id": 2,
+        "title": "Pizza",
+        "imageUrl": "https://thumbs.dreamstime.com/b/pizza-rustic-italian-mozzarella-cheese-basil-leaves-35669930.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Fried Chicken",
+        "imageUrl": "https://media.istockphoto.com/id/452813985/photo/plate-of-fried-chicken-on-blue-plaid-towel.jpg?s=612x612&w=0&k=20&c=e_03DvZFXhvbMR5eBiflKJ2nnQnoaBnufrT37h6Wf7s="
+    },
+    {
+        "id": 4,
+        "title": "Burgers",
+        "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+        "id": 5,
+        "title": "Sandwiches",
+        "imageUrl": "https://www.realsimple.com/thmb/W-fQFmzO5emThPBrdVufSyLAKrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/fancy-tomato-sandwiches-recipe-0721FOO-7d936fdcc05b4395b780a5beebbc0df2.jpg"
+    }
+
+]
